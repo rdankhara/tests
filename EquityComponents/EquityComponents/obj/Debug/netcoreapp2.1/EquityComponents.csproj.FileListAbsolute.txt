@@ -1,0 +1,9 @@
+C:\Development\tests\EquityComponents\EquityComponents\bin\Debug\netcoreapp2.1\EquityComponents.deps.json
+C:\Development\tests\EquityComponents\EquityComponents\bin\Debug\netcoreapp2.1\EquityComponents.dll
+C:\Development\tests\EquityComponents\EquityComponents\bin\Debug\netcoreapp2.1\EquityComponents.pdb
+C:\Development\tests\EquityComponents\EquityComponents\obj\Debug\netcoreapp2.1\EquityComponents.csprojAssemblyReference.cache
+C:\Development\tests\EquityComponents\EquityComponents\obj\Debug\netcoreapp2.1\EquityComponents.csproj.CoreCompileInputs.cache
+C:\Development\tests\EquityComponents\EquityComponents\obj\Debug\netcoreapp2.1\EquityComponents.AssemblyInfoInputs.cache
+C:\Development\tests\EquityComponents\EquityComponents\obj\Debug\netcoreapp2.1\EquityComponents.AssemblyInfo.cs
+C:\Development\tests\EquityComponents\EquityComponents\obj\Debug\netcoreapp2.1\EquityComponents.dll
+C:\Development\tests\EquityComponents\EquityComponents\obj\Debug\netcoreapp2.1\EquityComponents.pdb
